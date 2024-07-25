@@ -11,7 +11,7 @@
 - HTML
 - CSS
 - GIT
-- JavaSkript
+- JavaScript
 - Figma
 - Photoshop
 - Illustrator
